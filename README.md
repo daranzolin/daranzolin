@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to ~~Hell~~ GitHub, here is your ~~accordian~~ merge conflict
 
 <!--
 **daranzolin/daranzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
