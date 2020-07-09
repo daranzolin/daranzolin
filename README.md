@@ -1,8 +1,8 @@
 ### About Me
 
-:briefcase:  Hacker and Analyst at San Francisco State University
+:briefcase:  R Developer and Analyst at San Francisco State University
 
-:computer:  #rstats, d3.js, SQL, and a teensy bit of Bash, HTML/CSS, Python, C++
+:computer:  #rstats, d3.js, SQL, GIS, and a teensy bit of Bash, HTML/CSS, Python, Rcpp
 
 :basketball:  Washed PG
 
