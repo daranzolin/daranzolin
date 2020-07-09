@@ -1,4 +1,10 @@
-### Welcome to ~~Hell~~ GitHub, here is your ~~accordian~~ merge conflict
+### About Me
+
+:briefcase: Hacker and Analyst at San Francisco State University
+
+:computer: #rstats, d3.js, SQL, and a teensy bit of Bash, HTML/CSS, Python, C++
+
+:basketball: Washed PG
 
 <!--
 **daranzolin/daranzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
