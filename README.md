@@ -2,9 +2,11 @@
 
 :briefcase:  R Developer and Analyst at San Francisco State University
 
-:computer:  #rstats, d3.js, SQL, GIS, and a teensy bit of Bash, HTML/CSS, Python, Rcpp
+:computer:  #rstats, d3.js, SQL, GIS
 
 :basketball:  Washed PG
+
+:clock8: `git show` 🤔 
 
 :clock5: `git commit -am ":v:"`
 
