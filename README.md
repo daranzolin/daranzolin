@@ -6,8 +6,6 @@
 
 :basketball:  Washed PG
 
-:clock8: `git show` 🤔 
-
 :clock5: `git commit -am ":v:"`
 
 <!--
