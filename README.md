@@ -1,6 +1,6 @@
 ### About Me
 
-:briefcase:  R Developer and Analyst at San Francisco State University
+:briefcase:  R Developer and Analyst at San Francisco State
 
 :computer:  #rstats, d3.js, SQL, GIS
 
