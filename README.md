@@ -2,11 +2,15 @@
 
 :briefcase:  R Developer and Analyst at San Francisco State
 
-:computer:  #rstats, d3.js, SQL, GIS
-
 :basketball:  Washed PG
 
 :clock5: `git commit -am ":v:"`
+
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
+![d3](https://img.shields.io/badge/-D3.js-grey?style=flat-square&logo=d3.js)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
+![GIS](https://img.shields.io/badge/-GIS-black?style=flat-square&logo=openstreetmap)
 
 <!--
 **daranzolin/daranzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
