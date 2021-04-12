@@ -12,6 +12,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
 ![GIS](https://img.shields.io/badge/-GIS-black?style=flat-square&logo=openstreetmap)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daranzolin)](https://matchid.io)
 <!--
 **daranzolin/daranzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
