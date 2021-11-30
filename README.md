@@ -1,8 +1,10 @@
 ### About Me
 
-:briefcase:  R Developer and Analyst at San Francisco State
+:briefcase:  Senior Analyst at San Francisco State
 
 :basketball:  Washed PG
+
+🗺️ GIS Specialist
 
 :clock5: `git commit -am ":v:"`
 
@@ -10,7 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![d3](https://img.shields.io/badge/-D3.js-grey?style=flat-square&logo=d3.js)
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
-![GIS](https://img.shields.io/badge/-GIS-black?style=flat-square&logo=openstreetmap)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daranzolin)](https://matchid.io)
 <!--
