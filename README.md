@@ -16,6 +16,11 @@
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daranzolin)](https://matchid.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daranzolin&layout=compact&theme=vision-friendly-dark&hide=html,perl,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **daranzolin/daranzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
