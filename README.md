@@ -8,6 +8,8 @@
 
 :clock5: `git commit -am ":v:"`
 
+:cupid: `library(tidyverse)`
+
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![d3](https://img.shields.io/badge/-D3.js-grey?style=flat-square&logo=d3.js)
