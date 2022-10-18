@@ -1,6 +1,6 @@
 ### About Me
 
-:briefcase:  Senior Analyst at San Francisco State
+:briefcase:  Senior Analyst at SF Office of Economic and Workforce Development (OEWD
 
 :basketball:  Washed PG
 
