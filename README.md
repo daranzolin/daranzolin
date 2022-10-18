@@ -1,6 +1,6 @@
 ### About Me
 
-:briefcase:  Senior Analyst at SF Office of Economic and Workforce Development (OEWD
+:briefcase:  Senior Analyst at [SF Office of Economic and Workforce Development (OEWD)](https://sf.gov/departments/office-economic-and-workforce-development)
 
 :basketball:  Washed PG
 
