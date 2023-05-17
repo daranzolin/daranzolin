@@ -16,6 +16,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
 <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<br>
+<img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daranzolin)](https://matchid.io)
 
