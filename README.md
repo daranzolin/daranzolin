@@ -2,18 +2,23 @@
 
 :briefcase:  Senior Analyst at [SF Office of Economic and Workforce Development (OEWD)](https://sf.gov/departments/office-economic-and-workforce-development)
 
+🗺️ GIS Developer
+
 :basketball:  Washed PG
 
-🗺️ GIS Specialist
+⛳ Hacker
 
 :clock5: `git commit -am ":v:"`
 
-:cupid: `library(tidyverse)`
+:cupid: `library(tidyverse)` `library(targets)`
 
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![d3](https://img.shields.io/badge/-D3.js-grey?style=flat-square&logo=d3.js)
 ![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
+![](https://img.shields.io/badge/dbt-f7861b)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 <img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <br>
