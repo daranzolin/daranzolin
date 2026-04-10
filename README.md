@@ -1,33 +1,32 @@
-### About Me
+### Hi! I'm David 👋
 
-:briefcase:  Senior Analyst at [SF Office of Economic and Workforce Development (OEWD)](https://sf.gov/departments/office-economic-and-workforce-development)
+> Senior Analyst · Data Wrangler · GIS Developer · San Francisco
 
-🗺️ GIS Developer
+💼 &nbsp;Senior Analyst @ [SF Office of Economic and Workforce Development](https://sf.gov/departments/office-economic-and-workforce-development)  
+❄️ &nbsp;Building data pipelines in **dbt + Snowflake**  
+🤖 &nbsp;Developing AI tools with **Snowflake Cortex**  
+📊 &nbsp;Creating reports with **R/Quarto + PowerBI**  
+🗺️ &nbsp;Making maps with **ArcGIS Pro/ArcGIS Online**  
+🏀 &nbsp;Washed PG  
+⛳ &nbsp;Committed hacker  
+🎮 &nbsp;Slay the Spire A20 Heartbreaker  
+🕔 &nbsp;`git commit -am ":v:"`  
 
-:basketball:  Washed PG
+---
 
-⛳ Hacker
+**The stack**
 
-:clock5: `git commit -am ":v:"`
+![dbt](https://img.shields.io/badge/dbt-FF694A?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4682b4?style=flat-square&logo=amazonrds&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A825?style=flat-square&logo=d3.js&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 
-:cupid: `library(tidyverse)` `library(targets)`
 
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![d3](https://img.shields.io/badge/-D3.js-grey?style=flat-square&logo=d3.js)
-![SQL](https://img.shields.io/badge/-SQL-steelblue?style=flat-square&logo=steamdb)
-![](https://img.shields.io/badge/dbt-f7861b)
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
-<img alt="git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<br>
-<img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=daranzolin)](https://matchid.io)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daranzolin&layout=compact&theme=vision-friendly-dark&hide=html,perl,css)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 
