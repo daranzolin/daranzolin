@@ -1,6 +1,6 @@
 ### Hi! I'm David 👋
 
-> Senior Analyst · Data Wrangler · GIS Developer · San Francisco
+> San Francisco Bay Area Data Wrangler
 
 💼 &nbsp;Senior Analyst @ [SF Office of Economic and Workforce Development](https://sf.gov/departments/office-economic-and-workforce-development)  
 ❄️ &nbsp;Building data pipelines in **dbt + Snowflake**  
